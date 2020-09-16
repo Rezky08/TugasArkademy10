@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Rezky08/TugasArkademy10)](https://repl.it/github/Rezky08/TugasArkademy10)
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
